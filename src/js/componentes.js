@@ -82,8 +82,6 @@ btnBorrar.addEventListener('click', () => {
            
        }
     }
-
-
 });
 
 ulfiltros.addEventListener('click', (event) =>{

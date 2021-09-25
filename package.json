@@ -12,9 +12,9 @@
   "author": "Fernando Herrera",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.8.3",
-    "@babel/preset-env": "^7.8.3",
-    "babel-loader": "^8.0.6",
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "babel-loader": "^8.2.2",
     "babel-minify-webpack-plugin": "^0.3.1",
     "babel-preset-minify": "^0.5.1",
     "clean-webpack-plugin": "^3.0.0",
@@ -25,7 +25,7 @@
     "mini-css-extract-plugin": "^0.9.0",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
     "style-loader": "^1.1.2",
-    "webpack": "^4.41.5",
+    "webpack": "^4.46.0",
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.10.1"
   }
