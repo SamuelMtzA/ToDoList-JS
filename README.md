@@ -1,6 +1,6 @@
-# Webpack Starter
+# TODOLIST
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este proyecto fue realizado con javascript, html y css haciendo uso de webpack.
 
 ### Notas:
 Recuerden reconstruir los módulos de Node
